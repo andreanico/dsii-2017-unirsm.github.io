@@ -1,5 +1,5 @@
 # Flu virus detection
-**[launch / open](https://github.com/andreanico/dsii-2017-unirsm.github.io/tree/master/andreanico/Flu)**
+**[launch / open](http://dsii-2017-unirsm.github.io/andreanico/Flu)**
 
 by @andreanico © 2017 MIT License  
 DSII2017 Lab @UNIRSM [website](http://dsii-2017-unirsm.github.io)
