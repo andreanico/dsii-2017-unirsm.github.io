@@ -1,5 +1,5 @@
 # Random Verse
-**[launch / open](https://github.com/andreanico/dsii-2017-unirsm.github.io/tree/master/andreanico)**
+**[launch / open](http://dsii-2017-unirsm.github.io/andreanico/10Print/Variazione05)**
 
 by @andreanico © 2017 MIT License  
 DSII2017 Lab @UNIRSM [website](http://dsii-2017-unirsm.github.io)
